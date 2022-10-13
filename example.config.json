@@ -1,0 +1,11 @@
+{
+    "relayer": {
+        "webhookUrl": "",
+        "channels": []
+    },
+    "github": {
+        "githubToken": "",
+        "username": ""
+    },
+    "discordToken": ""
+}
